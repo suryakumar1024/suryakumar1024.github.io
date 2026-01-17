@@ -10,27 +10,13 @@ import './index.css';
 
 function AppContent() {
   const [theme, setTheme] = useState('light');
-  const [profileData, setProfileData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const { t } = useLanguage();
+  const { t, loading } = useLanguage();
 
   useEffect(() => {
     // Load theme from localStorage
     const savedTheme = localStorage.getItem('theme') || 'light';
     setTheme(savedTheme);
     document.documentElement.setAttribute('data-theme', savedTheme);
-
-    // Load profile data
-    fetch('/data/profile.json')
-      .then((response) => response.json())
-      .then((data) => {
-        setProfileData(data);
-        setLoading(false);
-      })
-      .catch((error) => {
-        console.error('Error loading profile data:', error);
-        setLoading(false);
-      });
   }, []);
 
   const toggleTheme = () => {
@@ -44,26 +30,29 @@ function AppContent() {
     return (
       <div className="loading">
         <div className="spinner"></div>
-        <p>{t('loading')}</p>
+        <p>Loading...</p>
       </div>
     );
   }
 
-  if (!profileData) {
-    return (
-      <div className="loading">
-        <p>{t('error')}</p>
-      </div>
-    );
+  // Helper to ensure we have data before rendering
+  const profile = t('profile');
+  const experience = t('experience.list');
+  const skills = t('skills.list');
+  const education = t('education.list');
+
+  // Safe check if data isn't loaded yet or key is returned
+  if (!profile || typeof profile !== 'object') {
+    return <div className="loading"><p>{t('error') || 'Error loading data'}</p></div>;
   }
 
   return (
     <div className="app">
       <Navbar theme={theme} toggleTheme={toggleTheme} />
-      <Hero profile={profileData.profile} />
-      <Experience experiences={profileData.experience} />
-      <Skills skills={profileData.skills} />
-      <Education education={profileData.education} />
+      <Hero profile={profile} />
+      <Experience experiences={experience} />
+      <Skills skills={skills} />
+      <Education education={education} />
       <Footer />
     </div>
   );
