@@ -1,0 +1,156 @@
+{
+  "profile": {
+    "name": "SURYAKUMAR K",
+    "title": "Technical Lead",
+    "photo": "/profile-photo.jpg",
+    "bio": "Passionate backend and AI engineer with 9+ years of experience building scalable, intelligent systems. Specialized in Python, cloud infrastructure, and MLOps. Love turning data and models into production-ready solutions.",
+    "contact": {
+      "email": "ksuryakumar@outlook.in",
+      "phone": "+91 9445519873",
+      "location": "Chennai, Tamil Nadu, India"
+    },
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/surya-kumar-k-45559343/",
+      "github": "https://github.com/suryakumar1024",
+      "twitter": "https://twitter.com/ksuryakumar"
+    },
+    "resume": "/resume.pdf"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Aziro (formerly Msys Technologies)",
+      "position": "Technical Lead",
+      "duration": "2020 - Present",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Leading development of microservices architecture, mentoring junior developers, and implementing CI/CD pipelines.",
+      "achievements": [
+        "Developed automation tools for Kubernetes cert validation and system health checks.",
+        "Designed REST APIs and CLI interfaces for Cisco DNA Center modules.",
+        "Managed CI/CD with Jenkins, Docker, and Ansible.",
+        "Integrated AI/ML data workflows, improving performance by 20%.",
+        "Led team of 5 developers on flagship product",
+        "Contributed to open-source Seagate CORTX libraries (ConfStore, KvStore, MessageBus).",
+        "Implemented K8s environments and deployment automation.",
+        "Led TDD adoption, improving test coverage and reliability.",
+        "Collaborated on distributed storage architecture improvements."
+      ],
+      "current": true
+    },
+    {
+      "id": 2,
+      "company": "Contus support Interactive",
+      "position": "Full Stack Developer",
+      "duration": "2018 - 2020",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Built and maintained customer-facing web applications using React and Node.js.",
+      "achievements": [
+        "Developed Django REST APIs for SD-WAN and IoT platforms.",
+        "Built ReactJS dashboards for real-time analytics.",
+        "Implemented RASA-based AI chatbot (BotChatAI) with NLP and Spacy.",
+        "Automated translation workflows reduce effort by 30%."
+      ],
+      "current": false
+    },
+    {
+      "id": 3,
+      "company": "Amtex Systems",
+      "position": "Associate Consultant Developer",
+      "duration": "2016 - 2018",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Developed responsive websites and web applications for various clients.",
+      "achievements": [
+        "Built Django-based CMS and SaaS applications.",
+        "Designed user data management and reporting modules.",
+        "Participated in end-to-end agile product development lifecycle."
+      ],
+      "current": false
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": 80,
+      "category": "Languages"
+    },
+    {
+      "name": "MongoDB",
+      "level": 82,
+      "category": "Database"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 85,
+      "category": "Database"
+    },
+    {
+      "name": "Docker",
+      "level": 78,
+      "category": "DevOps"
+    },
+    {
+      "name": "K8s",
+      "level": 85,
+      "category": "DevOps"
+    },
+    {
+      "name": "AWS",
+      "level": 75,
+      "category": "Cloud"
+    },
+    {
+      "name": "ANSIBLE",
+      "level": 80,
+      "category": "DevOps"
+    },
+    {
+      "name": "Git",
+      "level": 92,
+      "category": "Tools"
+    },
+    {
+      "name": "React",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript/TypeScript",
+      "level": 90,
+      "category": "Languages"
+    },
+    {
+      "name": "CSS/SASS",
+      "level": 88,
+      "category": "Frontend"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "SRM Valliammai Engineering College",
+      "degree": "Master of Computer Applications",
+      "field": "Software Engineering",
+      "duration": "2014 - 2016",
+      "location": "Chennai, Tamil Nadu, India",
+      "gpa": "7.5 CGPA",
+      "achievements": [
+        "Won College hackathon 2016",
+        "Won university Paper Presentation competition 2016"
+      ]
+    },
+    {
+      "id": 2,
+      "institution": "University of Madras",
+      "degree": "Bachelor of Computer Applications",
+      "field": "Computer Science",
+      "duration": "2011 - 2014",
+      "location": "Chennai, Tamil Nadu, India",
+      "gpa": "71.6 %",
+      "achievements": [
+        "Best Student of the Year for 2013 & 2014",
+        "Class Representative for 2011 & 2014",
+        "Student Representative for 2013 - 2014"
+      ]
+    }
+  ]
+}

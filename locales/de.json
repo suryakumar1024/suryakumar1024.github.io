@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "experience": "Erfahrung",
+        "skills": "Fähigkeiten",
+        "education": "Bildung",
+        "portfolio": "Portfolio"
+    },
+    "hero": {
+        "downloadResume": "Lebenslauf Herunterladen",
+        "viewGithub": "GitHub Ansehen",
+        "contactMe": "Kontaktiere Mich"
+    },
+    "experience": {
+        "title": "Berufserfahrung",
+        "subtitle": "Meine berufliche Laufbahn",
+        "present": "Gegenwart",
+        "achievements": "Wichtige Erfolge",
+        "current": "Aktuelle Position"
+    },
+    "skills": {
+        "title": "Fähigkeiten & Expertise",
+        "subtitle": "Technologien, mit denen ich arbeite",
+        "categories": {
+            "all": "Alle",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "database": "Datenbank",
+            "devops": "DevOps",
+            "cloud": "Cloud",
+            "tools": "Werkzeuge",
+            "languages": "Sprachen"
+        }
+    },
+    "education": {
+        "title": "Bildung",
+        "subtitle": "Akademischer Hintergrund",
+        "gpa": "Notendurchschnitt",
+        "achievements": "Erfolge"
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten",
+        "madeWith": "Gemacht mit",
+        "by": "von"
+    },
+    "loading": "Laden...",
+    "error": "Fehler beim Laden der Profildaten. Bitte überprüfen Sie die Konsole."
+}

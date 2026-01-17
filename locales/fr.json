@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "experience": "Expérience",
+        "skills": "Compétences",
+        "education": "Éducation",
+        "portfolio": "Portfolio"
+    },
+    "hero": {
+        "downloadResume": "Télécharger CV",
+        "viewGithub": "Voir GitHub",
+        "contactMe": "Me Contacter"
+    },
+    "experience": {
+        "title": "Expérience Professionnelle",
+        "subtitle": "Mon parcours professionnel",
+        "present": "Présent",
+        "achievements": "Réalisations Clés",
+        "current": "Poste Actuel"
+    },
+    "skills": {
+        "title": "Compétences et Expertise",
+        "subtitle": "Technologies que j'utilise",
+        "categories": {
+            "all": "Toutes",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "database": "Base de Données",
+            "devops": "DevOps",
+            "cloud": "Cloud",
+            "tools": "Outils",
+            "languages": "Langages"
+        }
+    },
+    "education": {
+        "title": "Éducation",
+        "subtitle": "Formation académique",
+        "gpa": "Moyenne",
+        "achievements": "Réalisations"
+    },
+    "footer": {
+        "rights": "Tous droits réservés",
+        "madeWith": "Fait avec",
+        "by": "par"
+    },
+    "loading": "Chargement...",
+    "error": "Erreur lors du chargement des données de profil. Veuillez vérifier la console."
+}
