@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "home": "Home",
+        "experience": "Experience",
+        "skills": "Skills",
+        "education": "Education",
+        "portfolio": "Portfolio"
+    },
+    "hero": {
+        "downloadResume": "Download Resume",
+        "viewGithub": "View GitHub",
+        "contactMe": "Contact Me"
+    },
+    "experience": {
+        "title": "Work Experience",
+        "subtitle": "My professional journey",
+        "present": "Present",
+        "achievements": "Key Achievements",
+        "current": "Current Position"
+    },
+    "skills": {
+        "title": "Skills & Expertise",
+        "subtitle": "Technologies I work with",
+        "categories": {
+            "all": "All",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "database": "Database",
+            "devops": "DevOps",
+            "cloud": "Cloud",
+            "tools": "Tools",
+            "languages": "Languages"
+        }
+    },
+    "education": {
+        "title": "Education",
+        "subtitle": "Academic background",
+        "gpa": "GPA",
+        "achievements": "Achievements"
+    },
+    "footer": {
+        "rights": "All rights reserved",
+        "madeWith": "Made with",
+        "by": "by"
+    },
+    "loading": "Loading...",
+    "error": "Error loading profile data. Please check the console."
+}

@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "home": "首页",
+        "experience": "经验",
+        "skills": "技能",
+        "education": "教育",
+        "portfolio": "作品集"
+    },
+    "hero": {
+        "downloadResume": "下载简历",
+        "viewGithub": "查看 GitHub",
+        "contactMe": "联系我"
+    },
+    "experience": {
+        "title": "工作经验",
+        "subtitle": "我的职业历程",
+        "present": "至今",
+        "achievements": "主要成就",
+        "current": "当前职位"
+    },
+    "skills": {
+        "title": "技能与专长",
+        "subtitle": "我使用的技术",
+        "categories": {
+            "all": "全部",
+            "frontend": "前端",
+            "backend": "后端",
+            "database": "数据库",
+            "devops": "开发运维",
+            "cloud": "云计算",
+            "tools": "工具",
+            "languages": "编程语言"
+        }
+    },
+    "education": {
+        "title": "教育背景",
+        "subtitle": "学术背景",
+        "gpa": "绩点",
+        "achievements": "成就"
+    },
+    "footer": {
+        "rights": "保留所有权利",
+        "madeWith": "用",
+        "by": "制作"
+    },
+    "loading": "加载中...",
+    "error": "加载个人资料数据时出错。请检查控制台。"
+}
