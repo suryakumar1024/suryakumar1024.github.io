@@ -11,32 +11,161 @@
         "viewGithub": "Voir GitHub",
         "contactMe": "Me Contacter"
     },
+    "profile": {
+        "name": "John Doe",
+        "title": "Développeur Full Stack",
+        "photo": "/profile-photo.jpg",
+        "bio": "Ingénieur logiciel passionné avec plus de 5 ans d'expérience dans la création d'applications web évolutives. Spécialisé en React, Node.js et les technologies cloud. J'aime transformer des problèmes complexes en solutions élégantes.",
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+1 (555) 123-4567",
+            "location": "San Francisco, CA"
+        },
+        "social": {
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "github": "https://github.com/johndoe",
+            "twitter": "https://twitter.com/johndoe"
+        },
+        "resume": "/resume.pdf"
+    },
     "experience": {
         "title": "Expérience Professionnelle",
         "subtitle": "Mon parcours professionnel",
-        "present": "Présent",
-        "achievements": "Réalisations Clés",
-        "current": "Poste Actuel"
+        "list": [
+            {
+                "id": 1,
+                "company": "Tech Corp",
+                "position": "Développeur Full Stack Senior",
+                "duration": "2022 - Présent",
+                "location": "San Francisco, CA",
+                "description": "Direction du développement de l'architecture microservices, mentorat des développeurs juniors et mise en œuvre des pipelines CI/CD.",
+                "achievements": [
+                    "Réduction du temps de déploiement de 60% grâce à l'automatisation",
+                    "Direction d'une équipe de 5 développeurs sur le produit phare",
+                    "Amélioration des performances de l'application de 40%"
+                ],
+                "current": true
+            },
+            {
+                "id": 2,
+                "company": "StartupXYZ",
+                "position": "Développeur Full Stack",
+                "duration": "2020 - 2022",
+                "location": "Télétravail",
+                "description": "Construction et maintenance d'applications web pour les clients utilisant React et Node.js.",
+                "achievements": [
+                    "Développement de 3 fonctionnalités majeures augmentant l'engagement utilisateur de 25%",
+                    "Mise en œuvre de la fonctionnalité de chat en temps réel",
+                    "Optimisation des requêtes de base de données réduisant le temps de chargement de 50%"
+                ],
+                "current": false
+            },
+            {
+                "id": 3,
+                "company": "Agence Digitale",
+                "position": "Développeur Junior",
+                "duration": "2019 - 2020",
+                "location": "New York, NY",
+                "description": "Développement de sites web responsifs et d'applications web pour divers clients.",
+                "achievements": [
+                    "Livraison de plus de 15 projets clients à temps",
+                    "Amélioration de la qualité du code grâce aux revues par les pairs",
+                    "Apprentissage des pratiques de développement modernes"
+                ],
+                "current": false
+            }
+        ]
     },
     "skills": {
         "title": "Compétences et Expertise",
         "subtitle": "Technologies que j'utilise",
-        "categories": {
-            "all": "Toutes",
-            "frontend": "Frontend",
-            "backend": "Backend",
-            "database": "Base de Données",
-            "devops": "DevOps",
-            "cloud": "Cloud",
-            "tools": "Outils",
-            "languages": "Langages"
-        }
+        "list": [
+            {
+                "name": "React",
+                "level": 95,
+                "category": "Frontend"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "Langages"
+            },
+            {
+                "name": "Node.js",
+                "level": 85,
+                "category": "Backend"
+            },
+            {
+                "name": "Python",
+                "level": 80,
+                "category": "Langages"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "Frontend"
+            },
+            {
+                "name": "MongoDB",
+                "level": 82,
+                "category": "Base de Données"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 85,
+                "category": "Base de Données"
+            },
+            {
+                "name": "Docker",
+                "level": 78,
+                "category": "DevOps"
+            },
+            {
+                "name": "AWS",
+                "level": 75,
+                "category": "Cloud"
+            },
+            {
+                "name": "Git",
+                "level": 92,
+                "category": "Outils"
+            }
+        ]
     },
     "education": {
         "title": "Éducation",
         "subtitle": "Formation académique",
-        "gpa": "Moyenne",
-        "achievements": "Réalisations"
+        "gpaLabel": "Moyenne",
+        "list": [
+            {
+                "id": 1,
+                "institution": "Université de Technologie",
+                "degree": "Master en Informatique",
+                "field": "Génie Logiciel",
+                "duration": "2017 - 2019",
+                "location": "Boston, MA",
+                "gpa": "3.8/4.0",
+                "achievements": [
+                    "Liste du doyen tous les semestres",
+                    "Publication d'un article de recherche sur les systèmes distribués",
+                    "Assistant d'enseignement pour le cours de Structures de Données"
+                ]
+            },
+            {
+                "id": 2,
+                "institution": "Université d'État",
+                "degree": "Licence en Informatique",
+                "field": "Informatique",
+                "duration": "2013 - 2017",
+                "location": "Los Angeles, CA",
+                "gpa": "3.6/4.0",
+                "achievements": [
+                    "Diplômé avec mention",
+                    "Président du Club Informatique",
+                    "Gagnant du hackathon universitaire 2016"
+                ]
+            }
+        ]
     },
     "footer": {
         "rights": "Tous droits réservés",
