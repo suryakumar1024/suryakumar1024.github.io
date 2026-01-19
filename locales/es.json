@@ -1,0 +1,177 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "experience": "Experiencia",
+        "skills": "Habilidades",
+        "education": "Educación",
+        "portfolio": "Portafolio"
+    },
+    "hero": {
+        "downloadResume": "Descargar CV",
+        "viewGithub": "Ver GitHub",
+        "contactMe": "Contáctame"
+    },
+    "profile": {
+        "name": "John Doe",
+        "title": "Desarrollador Full Stack",
+        "photo": "/profile-photo.jpg",
+        "bio": "Ingeniero de software apasionado con más de 5 años de experiencia en la creación de aplicaciones web escalables. Especializado en React, Node.js y tecnologías en la nube. Me encanta convertir problemas complejos en soluciones elegantes.",
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+1 (555) 123-4567",
+            "location": "San Francisco, CA"
+        },
+        "social": {
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "github": "https://github.com/johndoe",
+            "twitter": "https://twitter.com/johndoe"
+        },
+        "resume": "/resume.pdf"
+    },
+    "experience": {
+        "title": "Experiencia Laboral",
+        "subtitle": "Mi trayectoria profesional",
+        "list": [
+            {
+                "id": 1,
+                "company": "Tech Corp",
+                "position": "Desarrollador Full Stack Senior",
+                "duration": "2022 - Presente",
+                "location": "San Francisco, CA",
+                "description": "Liderando el desarrollo de arquitectura de microservicios, asesorando a desarrolladores junior e implementando pipelines de CI/CD.",
+                "achievements": [
+                    "Reducción del tiempo de despliegue en un 60% mediante automatización",
+                    "Lideré equipo de 5 desarrolladores en producto insignia",
+                    "Mejora del rendimiento de la aplicación en un 40%"
+                ],
+                "current": true
+            },
+            {
+                "id": 2,
+                "company": "StartupXYZ",
+                "position": "Desarrollador Full Stack",
+                "duration": "2020 - 2022",
+                "location": "Remoto",
+                "description": "Construcción y mantenimiento de aplicaciones web para clientes usando React y Node.js.",
+                "achievements": [
+                    "Desarrollé 3 características principales que aumentaron el compromiso del usuario en un 25%",
+                    "Implementación de funcionalidad de chat en tiempo real",
+                    "Optimización de consultas a la base de datos reduciendo el tiempo de carga en un 50%"
+                ],
+                "current": false
+            },
+            {
+                "id": 3,
+                "company": "Agencia Digital",
+                "position": "Desarrollador Junior",
+                "duration": "2019 - 2020",
+                "location": "Nueva York, NY",
+                "description": "Desarrollé sitios web responsivos y aplicaciones web para varios clientes.",
+                "achievements": [
+                    "Entregué más de 15 proyectos de clientes a tiempo",
+                    "Mejora de la calidad del código a través de revisiones por pares",
+                    "Aprendí prácticas modernas de desarrollo"
+                ],
+                "current": false
+            }
+        ]
+    },
+    "skills": {
+        "title": "Habilidades y Experiencia",
+        "subtitle": "Tecnologías con las que trabajo",
+        "list": [
+            {
+                "name": "React",
+                "level": 95,
+                "category": "Frontend"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "Lenguajes"
+            },
+            {
+                "name": "Node.js",
+                "level": 85,
+                "category": "Backend"
+            },
+            {
+                "name": "Python",
+                "level": 80,
+                "category": "Lenguajes"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "Frontend"
+            },
+            {
+                "name": "MongoDB",
+                "level": 82,
+                "category": "Base de Datos"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 85,
+                "category": "Base de Datos"
+            },
+            {
+                "name": "Docker",
+                "level": 78,
+                "category": "DevOps"
+            },
+            {
+                "name": "AWS",
+                "level": 75,
+                "category": "Nube"
+            },
+            {
+                "name": "Git",
+                "level": 92,
+                "category": "Herramientas"
+            }
+        ]
+    },
+    "education": {
+        "title": "Educación",
+        "subtitle": "Formación académica",
+        "gpaLabel": "Promedio",
+        "list": [
+            {
+                "id": 1,
+                "institution": "Universidad Tecnológica",
+                "degree": "Maestría en Ciencias de la Computación",
+                "field": "Ingeniería de Software",
+                "duration": "2017 - 2019",
+                "location": "Boston, MA",
+                "gpa": "3.8/4.0",
+                "achievements": [
+                    "Lista del Decano todos los semestres",
+                    "Publicación de trabajo de investigación sobre sistemas distribuidos",
+                    "Asistente de enseñanza para curso de Estructuras de Datos"
+                ]
+            },
+            {
+                "id": 2,
+                "institution": "Universidad Estatal",
+                "degree": "Licenciatura en Ciencias de la Computación",
+                "field": "Ciencias de la Computación",
+                "duration": "2013 - 2017",
+                "location": "Los Ángeles, CA",
+                "gpa": "3.6/4.0",
+                "achievements": [
+                    "Graduado con Honores",
+                    "Presidente del Club de Ciencias de la Computación",
+                    "Ganador del hackathon universitario 2016"
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "rights": "Todos los derechos reservados",
+        "madeWith": "Hecho con",
+        "by": "por"
+    },
+    "loading": "Cargando...",
+    "error": "Error al cargar los datos del perfil. Por favor, revisa la consola."
+}

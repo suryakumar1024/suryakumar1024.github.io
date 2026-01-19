@@ -1,0 +1,177 @@
+{
+    "nav": {
+        "home": "首页",
+        "experience": "经验",
+        "skills": "技能",
+        "education": "教育",
+        "portfolio": "作品集"
+    },
+    "hero": {
+        "downloadResume": "下载简历",
+        "viewGithub": "查看 GitHub",
+        "contactMe": "联系我"
+    },
+    "profile": {
+        "name": "John Doe",
+        "title": "全栈开发工程师",
+        "photo": "/profile-photo.jpg",
+        "bio": "热情的软件工程师，拥有5年以上构建可扩展Web应用程序的经验。精通React、Node.js和云技术。热爱将复杂问题转化为优雅的解决方案。",
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+1 (555) 123-4567",
+            "location": "San Francisco, CA"
+        },
+        "social": {
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "github": "https://github.com/johndoe",
+            "twitter": "https://twitter.com/johndoe"
+        },
+        "resume": "/resume.pdf"
+    },
+    "experience": {
+        "title": "工作经验",
+        "subtitle": "我的职业历程",
+        "list": [
+            {
+                "id": 1,
+                "company": "Tech Corp",
+                "position": "高级全栈开发工程师",
+                "duration": "2022 - 至今",
+                "location": "San Francisco, CA",
+                "description": "领导微服务架构的开发，指导初级开发人员，并实施CI/CD流程。",
+                "achievements": [
+                    "通过自动化将部署时间缩短了60%",
+                    "领导5人团队开发旗舰产品",
+                    "将应用程序性能提高了40%"
+                ],
+                "current": true
+            },
+            {
+                "id": 2,
+                "company": "StartupXYZ",
+                "position": "全栈开发工程师",
+                "duration": "2020 - 2022",
+                "location": "远程",
+                "description": "使用React和Node.js构建和维护面向客户的Web应用程序。",
+                "achievements": [
+                    "开发了3个主要功能，将用户参与度提高了25%",
+                    "实现了实时聊天功能",
+                    "优化了数据库查询，将加载时间减少了50%"
+                ],
+                "current": false
+            },
+            {
+                "id": 3,
+                "company": "Digital Agency",
+                "position": "初级开发工程师",
+                "duration": "2019 - 2020",
+                "location": "New York, NY",
+                "description": "为各种客户开发响应式网站和Web应用程序。",
+                "achievements": [
+                    "按时交付了15个以上的客户项目",
+                    "通过同行评审提高了代码质量",
+                    "学习了现代开发实践"
+                ],
+                "current": false
+            }
+        ]
+    },
+    "skills": {
+        "title": "技能与专长",
+        "subtitle": "我使用的技术",
+        "list": [
+            {
+                "name": "React",
+                "level": 95,
+                "category": "前端"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "语言"
+            },
+            {
+                "name": "Node.js",
+                "level": 85,
+                "category": "后端"
+            },
+            {
+                "name": "Python",
+                "level": 80,
+                "category": "语言"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "前端"
+            },
+            {
+                "name": "MongoDB",
+                "level": 82,
+                "category": "数据库"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 85,
+                "category": "数据库"
+            },
+            {
+                "name": "Docker",
+                "level": 78,
+                "category": "开发运维"
+            },
+            {
+                "name": "AWS",
+                "level": 75,
+                "category": "云计算"
+            },
+            {
+                "name": "Git",
+                "level": 92,
+                "category": "工具"
+            }
+        ]
+    },
+    "education": {
+        "title": "教育背景",
+        "subtitle": "学术背景",
+        "gpaLabel": "绩点",
+        "list": [
+            {
+                "id": 1,
+                "institution": "理工大学",
+                "degree": "计算机科学硕士",
+                "field": "软件工程",
+                "duration": "2017 - 2019",
+                "location": "Boston, MA",
+                "gpa": "3.8/4.0",
+                "achievements": [
+                    "每学期都进入院长名单",
+                    "发表了关于分布式系统的研究论文",
+                    "担任数据结构课程的助教"
+                ]
+            },
+            {
+                "id": 2,
+                "institution": "州立大学",
+                "degree": "计算机科学学士",
+                "field": "计算机科学",
+                "duration": "2013 - 2017",
+                "location": "Los Angeles, CA",
+                "gpa": "3.6/4.0",
+                "achievements": [
+                    "以优异成绩毕业",
+                    "计算机科学俱乐部主席",
+                    "2016年大学黑客马拉松获胜者"
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "rights": "保留所有权利",
+        "madeWith": "用",
+        "by": "制作"
+    },
+    "loading": "加载中...",
+    "error": "加载个人资料数据时出错。请检查控制台。"
+}

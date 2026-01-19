@@ -1,0 +1,177 @@
+{
+    "nav": {
+        "home": "Home",
+        "experience": "Experience",
+        "skills": "Skills",
+        "education": "Education",
+        "portfolio": "Portfolio"
+    },
+    "hero": {
+        "downloadResume": "Download Resume",
+        "viewGithub": "View GitHub",
+        "contactMe": "Contact Me"
+    },
+    "profile": {
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "photo": "/profile-photo.jpg",
+        "bio": "Passionate software engineer with 5+ years of experience building scalable web applications. Specialized in React, Node.js, and cloud technologies. Love turning complex problems into elegant solutions.",
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+1 (555) 123-4567",
+            "location": "San Francisco, CA"
+        },
+        "social": {
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "github": "https://github.com/johndoe",
+            "twitter": "https://twitter.com/johndoe"
+        },
+        "resume": "/resume.pdf"
+    },
+    "experience": {
+        "title": "Work Experience",
+        "subtitle": "My professional journey",
+        "list": [
+            {
+                "id": 1,
+                "company": "Tech Corp",
+                "position": "Senior Full Stack Developer",
+                "duration": "2022 - Present",
+                "location": "San Francisco, CA",
+                "description": "Leading development of microservices architecture, mentoring junior developers, and implementing CI/CD pipelines.",
+                "achievements": [
+                    "Reduced deployment time by 60% through automation",
+                    "Led team of 5 developers on flagship product",
+                    "Improved application performance by 40%"
+                ],
+                "current": true
+            },
+            {
+                "id": 2,
+                "company": "StartupXYZ",
+                "position": "Full Stack Developer",
+                "duration": "2020 - 2022",
+                "location": "Remote",
+                "description": "Built and maintained customer-facing web applications using React and Node.js.",
+                "achievements": [
+                    "Developed 3 major features that increased user engagement by 25%",
+                    "Implemented real-time chat functionality",
+                    "Optimized database queries reducing load time by 50%"
+                ],
+                "current": false
+            },
+            {
+                "id": 3,
+                "company": "Digital Agency",
+                "position": "Junior Developer",
+                "duration": "2019 - 2020",
+                "location": "New York, NY",
+                "description": "Developed responsive websites and web applications for various clients.",
+                "achievements": [
+                    "Delivered 15+ client projects on time",
+                    "Improved code quality through peer reviews",
+                    "Learned modern development practices"
+                ],
+                "current": false
+            }
+        ]
+    },
+    "skills": {
+        "title": "Skills & Expertise",
+        "subtitle": "Technologies I work with",
+        "list": [
+            {
+                "name": "React",
+                "level": 95,
+                "category": "Frontend"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "Languages"
+            },
+            {
+                "name": "Node.js",
+                "level": 85,
+                "category": "Backend"
+            },
+            {
+                "name": "Python",
+                "level": 80,
+                "category": "Languages"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "Frontend"
+            },
+            {
+                "name": "MongoDB",
+                "level": 82,
+                "category": "Database"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 85,
+                "category": "Database"
+            },
+            {
+                "name": "Docker",
+                "level": 78,
+                "category": "DevOps"
+            },
+            {
+                "name": "AWS",
+                "level": 75,
+                "category": "Cloud"
+            },
+            {
+                "name": "Git",
+                "level": 92,
+                "category": "Tools"
+            }
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "subtitle": "Academic background",
+        "gpaLabel": "GPA",
+        "list": [
+            {
+                "id": 1,
+                "institution": "University of Technology",
+                "degree": "Master of Science in Computer Science",
+                "field": "Software Engineering",
+                "duration": "2017 - 2019",
+                "location": "Boston, MA",
+                "gpa": "3.8/4.0",
+                "achievements": [
+                    "Dean's List all semesters",
+                    "Published research paper on distributed systems",
+                    "Teaching Assistant for Data Structures course"
+                ]
+            },
+            {
+                "id": 2,
+                "institution": "State University",
+                "degree": "Bachelor of Science in Computer Science",
+                "field": "Computer Science",
+                "duration": "2013 - 2017",
+                "location": "Los Angeles, CA",
+                "gpa": "3.6/4.0",
+                "achievements": [
+                    "Graduated with Honors",
+                    "President of Computer Science Club",
+                    "Won university hackathon 2016"
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "rights": "All rights reserved",
+        "madeWith": "Made with",
+        "by": "by"
+    },
+    "loading": "Loading...",
+    "error": "Error loading profile data. Please check the console."
+}
