@@ -8,7 +8,7 @@ export default function Footer() {
         <footer className="footer">
             <div className="container">
                 <div className="footer-content">
-                    <p>© {currentYear} {t('footer.rights')}. {t('footer.madeWith')} React & Vite</p>
+                    <p>© {currentYear} {t('footer.rights')}. {t('footer.madeWith')} SuryaKumar K</p>
                 </div>
             </div>
         </footer>
