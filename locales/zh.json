@@ -1,9 +1,9 @@
 {
     "nav": {
         "home": "首页",
-        "experience": "经验",
-        "skills": "技能",
-        "education": "教育",
+        "experience": "项目经历",
+        "skills": "专业技能",
+        "education": "教育背景",
         "portfolio": "作品集"
     },
     "hero": {
@@ -12,65 +12,72 @@
         "contactMe": "联系我"
     },
     "profile": {
-        "name": "John Doe",
-        "title": "全栈开发工程师",
+        "name": "SURYAKUMAR K",
+        "title": "技术负责人",
         "photo": "/profile-photo.jpg",
-        "bio": "热情的软件工程师，拥有5年以上构建可扩展Web应用程序的经验。精通React、Node.js和云技术。热爱将复杂问题转化为优雅的解决方案。",
+        "bio": "热衷于后端和人工智能的工程师，拥有 9 年以上构建可扩展、智能化系统的经验。擅长 Python、云基础设施和 MLOps。热爱将数据和模型转化为生产级解决方案。",
         "contact": {
-            "email": "john.doe@example.com",
-            "phone": "+1 (555) 123-4567",
-            "location": "San Francisco, CA"
+            "email": "ksuryakumar@outlook.in",
+            "phone": "+91 94455 19873",
+            "location": "钦奈，泰米尔纳德邦"
         },
         "social": {
-            "linkedin": "https://linkedin.com/in/johndoe",
-            "github": "https://github.com/johndoe",
-            "twitter": "https://twitter.com/johndoe"
+            "linkedin": "https://www.linkedin.com/in/surya-kumar-k-45559343/",
+            "github": "https://github.com/suryakumar1024",
+            "twitter": "https://twitter.com/suryakumar1024"
         },
-        "resume": "/resume.pdf"
+        "resume": "/Suryakumar_K.pdf"
     },
     "experience": {
-        "title": "工作经验",
-        "subtitle": "我的职业历程",
+        "title": "工作经历",
+        "subtitle": "我的职业生涯",
         "list": [
             {
                 "id": 1,
-                "company": "Tech Corp",
-                "position": "高级全栈开发工程师",
-                "duration": "2022 - 至今",
-                "location": "San Francisco, CA",
-                "description": "领导微服务架构的开发，指导初级开发人员，并实施CI/CD流程。",
+                "company": "Aziro (原 Msys Technologies)",
+                "position": "技术负责人",
+                "duration": "2020 - 至今",
+                "location": "钦奈，泰米尔纳德邦",
+                "description": "领导微服务架构开发，指导初级开发人员，并实施 CI/CD 流水线。",
                 "achievements": [
-                    "通过自动化将部署时间缩短了60%",
-                    "领导5人团队开发旗舰产品",
-                    "将应用程序性能提高了40%"
+                    "开发了用于 Kubernetes 证书验证和系统健康检查的自动化工具。",
+                    "为 Cisco DNA Center 模块设计了 REST API 和 CLI 接口。",
+                    "使用 Jenkins、Docker 和 Ansible 管理 CI/CD。",
+                    "集成了 AI/ML 数据工作流，性能提升了 20%。",
+                    "领导了 5 名开发人员的团队开发旗舰产品。",
+                    "为开源 Seagate CORTX 库（ConfStore、KvStore、MessageBus）做出了贡献。",
+                    "实施了 K8s 环境和部署自动化。",
+                    "领导了 TDD 的采用，提高了测试覆盖率和可靠性。",
+                    "协作改进了分布式存储架构。"
                 ],
                 "current": true
             },
             {
                 "id": 2,
-                "company": "StartupXYZ",
-                "position": "全栈开发工程师",
-                "duration": "2020 - 2022",
-                "location": "远程",
-                "description": "使用React和Node.js构建和维护面向客户的Web应用程序。",
+                "company": "Contus support Interactive",
+                "position": "全栈开发人员",
+                "duration": "2018 - 2020",
+                "location": "钦奈，泰米尔纳德邦",
+                "description": "使用 React 和 Node.js 构建和维护面向客户 web 应用程序。",
                 "achievements": [
-                    "开发了3个主要功能，将用户参与度提高了25%",
-                    "实现了实时聊天功能",
-                    "优化了数据库查询，将加载时间减少了50%"
+                    "为 SD-WAN 和 IoT 平台开发了 Django REST API。",
+                    "构建了用于实时分析的 ReactJS 仪表板。",
+                    "实施了基于 RASA 的 AI 聊天机器人 (BotChatAI)，支持 NLP 和 Spacy。",
+                    "自动化翻译工作流减少了 30% 的工作量。"
                 ],
                 "current": false
             },
             {
                 "id": 3,
-                "company": "Digital Agency",
-                "position": "初级开发工程师",
-                "duration": "2019 - 2020",
-                "location": "New York, NY",
-                "description": "为各种客户开发响应式网站和Web应用程序。",
+                "company": "Amtex Systems",
+                "position": "助理顾问开发人员",
+                "duration": "2016 - 2018",
+                "location": "钦奈，泰米尔纳德邦",
+                "description": "为各种客户开发响应式网站和 Web 应用程序。",
                 "achievements": [
-                    "按时交付了15个以上的客户项目",
-                    "通过同行评审提高了代码质量",
-                    "学习了现代开发实践"
+                    "构建了基于 Django 的 CMS 和 SaaS 应用程序。",
+                    "设计了用户数据管理和报告模块。",
+                    "参与了端到端的敏捷产品开发生命周期。"
                 ],
                 "current": false
             }
@@ -81,29 +88,9 @@
         "subtitle": "我使用的技术",
         "list": [
             {
-                "name": "React",
-                "level": 95,
-                "category": "前端"
-            },
-            {
-                "name": "JavaScript/TypeScript",
-                "level": 90,
-                "category": "语言"
-            },
-            {
-                "name": "Node.js",
-                "level": 85,
-                "category": "后端"
-            },
-            {
                 "name": "Python",
                 "level": 80,
-                "category": "语言"
-            },
-            {
-                "name": "CSS/SASS",
-                "level": 88,
-                "category": "前端"
+                "category": "编程语言"
             },
             {
                 "name": "MongoDB",
@@ -118,59 +105,83 @@
             {
                 "name": "Docker",
                 "level": 78,
-                "category": "开发运维"
+                "category": "DevOps"
+            },
+            {
+                "name": "K8s",
+                "level": 85,
+                "category": "DevOps"
             },
             {
                 "name": "AWS",
                 "level": 75,
-                "category": "云计算"
+                "category": "云服务"
+            },
+            {
+                "name": "ANSIBLE",
+                "level": 80,
+                "category": "DevOps"
             },
             {
                 "name": "Git",
                 "level": 92,
                 "category": "工具"
+            },
+            {
+                "name": "React",
+                "level": 95,
+                "category": "前端"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "编程语言"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "前端"
             }
         ]
     },
     "education": {
         "title": "教育背景",
         "subtitle": "学术背景",
-        "gpaLabel": "绩点",
+        "gpaLabel": "绩点 (GPA)",
         "list": [
             {
                 "id": 1,
-                "institution": "理工大学",
-                "degree": "计算机科学硕士",
+                "institution": "SRM Valliammai Engineering College",
+                "degree": "计算机应用硕士",
                 "field": "软件工程",
-                "duration": "2017 - 2019",
-                "location": "Boston, MA",
-                "gpa": "3.8/4.0",
+                "duration": "2014 - 2016",
+                "location": "印度，泰米尔纳德邦，钦奈",
+                "gpa": "7.5 CGPA",
                 "achievements": [
-                    "每学期都进入院长名单",
-                    "发表了关于分布式系统的研究论文",
-                    "担任数据结构课程的助教"
+                    "赢得 2016 年学院黑客马拉松",
+                    "赢得 2016 年大学论文展示竞赛"
                 ]
             },
             {
                 "id": 2,
-                "institution": "州立大学",
-                "degree": "计算机科学学士",
+                "institution": "University of Madras",
+                "degree": "计算机应用学士",
                 "field": "计算机科学",
-                "duration": "2013 - 2017",
-                "location": "Los Angeles, CA",
-                "gpa": "3.6/4.0",
+                "duration": "2011 - 2014",
+                "location": "印度，泰米尔纳德邦，钦奈",
+                "gpa": "71.6 %",
                 "achievements": [
-                    "以优异成绩毕业",
-                    "计算机科学俱乐部主席",
-                    "2016年大学黑客马拉松获胜者"
+                    "2013 及 2014 年度优秀学生",
+                    "2011 及 2014 年度班级代表",
+                    "2013 - 2014 年度学生代表"
                 ]
             }
         ]
     },
     "footer": {
-        "rights": "保留所有权利",
-        "madeWith": "用",
-        "by": "制作"
+        "rights": "版权所有",
+        "madeWith": "制作工具",
+        "by": "制作者"
     },
     "loading": "加载中...",
     "error": "加载个人资料数据时出错。请检查控制台。"

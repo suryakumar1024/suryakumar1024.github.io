@@ -7,70 +7,77 @@
         "portfolio": "Portfolio"
     },
     "hero": {
-        "downloadResume": "Lebenslauf Herunterladen",
-        "viewGithub": "GitHub Ansehen",
-        "contactMe": "Kontaktiere Mich"
+        "downloadResume": "Lebenslauf herunterladen",
+        "viewGithub": "GitHub ansehen",
+        "contactMe": "Kontaktier mich"
     },
     "profile": {
-        "name": "John Doe",
-        "title": "Full Stack Entwickler",
+        "name": "SURYAKUMAR K",
+        "title": "Technischer Leiter",
         "photo": "/profile-photo.jpg",
-        "bio": "Leidenschaftlicher Softwareingenieur mit über 5 Jahren Erfahrung in der Erstellung skalierbarer Webanwendungen. Spezialisiert auf React, Node.js und Cloud-Technologien. Ich liebe es, komplexe Probleme in elegante Lösungen zu verwandeln.",
+        "bio": "Leidenschaftlicher Backend- und KI-Ingenieur mit über 9 Jahren Erfahrung im Aufbau skalierbarer, intelligenter Systeme. Spezialisiert auf Python, Cloud-Infrastruktur und MLOps. Ich liebe es, Daten und Modelle in produktionsreife Lösungen zu verwandeln.",
         "contact": {
-            "email": "john.doe@example.com",
-            "phone": "+1 (555) 123-4567",
-            "location": "San Francisco, CA"
+            "email": "ksuryakumar@outlook.in",
+            "phone": "+91 94455 19873",
+            "location": "Chennai, Tamil Nadu"
         },
         "social": {
-            "linkedin": "https://linkedin.com/in/johndoe",
-            "github": "https://github.com/johndoe",
-            "twitter": "https://twitter.com/johndoe"
+            "linkedin": "https://www.linkedin.com/in/surya-kumar-k-45559343/",
+            "github": "https://github.com/suryakumar1024",
+            "twitter": "https://twitter.com/suryakumar1024"
         },
-        "resume": "/resume.pdf"
+        "resume": "/Suryakumar_K.pdf"
     },
     "experience": {
         "title": "Berufserfahrung",
-        "subtitle": "Meine berufliche Laufbahn",
+        "subtitle": "Mein beruflicher Werdegang",
         "list": [
             {
                 "id": 1,
-                "company": "Tech Corp",
-                "position": "Senior Full Stack Entwickler",
-                "duration": "2022 - Heute",
-                "location": "San Francisco, CA",
+                "company": "Aziro (ehemals Msys Technologies)",
+                "position": "Technischer Leiter",
+                "duration": "2020 - Heute",
+                "location": "Chennai, Tamil Nadu",
                 "description": "Leitung der Entwicklung von Microservices-Architekturen, Mentoring von Junior-Entwicklern und Implementierung von CI/CD-Pipelines.",
                 "achievements": [
-                    "Reduzierung der Bereitstellungszeit um 60% durch Automatisierung",
-                    "Leitung eines Teams von 5 Entwicklern für das Hauptprodukt",
-                    "Verbesserung der Anwendungsleistung um 40%"
+                    "Entwicklung von Automatisierungstools für die Kubernetes-Zertifikatsvalidierung und System-Health-Checks.",
+                    "Design von REST-APIs und CLI-Schnittstellen für Cisco DNA Center-Module.",
+                    "Verwaltung von CI/CD mit Jenkins, Docker und Ansible.",
+                    "Integration von KI/ML-Daten-Workflows, wodurch die Leistung um 20 % verbessert wurde.",
+                    "Leitung eines Teams von 5 Entwicklern für das Flaggschiff-Produkt.",
+                    "Beitrag zu Open-Source-Seagate-CORTX-Bibliotheken (ConfStore, KvStore, MessageBus).",
+                    "Implementierung von K8s-Umgebungen und Deployment-Automatisierung.",
+                    "Leitung der TDD-Einführung, Verbesserung der Testabdeckung und Zuverlässigkeit.",
+                    "Zusammenarbeit bei der Verbesserung der verteilten Speicherarchitektur."
                 ],
                 "current": true
             },
             {
                 "id": 2,
-                "company": "StartupXYZ",
-                "position": "Full Stack Entwickler",
-                "duration": "2020 - 2022",
-                "location": "Remote",
-                "description": "Erstellung und Wartung von kundenorientierten Webanwendungen mit React und Node.js.",
+                "company": "Contus support Interactive",
+                "position": "Full-Stack-Entwickler",
+                "duration": "2018 - 2020",
+                "location": "Chennai, Tamil Nadu",
+                "description": "Aufbau und Wartung kundenorientierter Webanwendungen mit React und Node.js.",
                 "achievements": [
-                    "Entwicklung von 3 Hauptfunktionen, die das Benutzerengagement um 25% steigerten",
-                    "Implementierung von Echtzeit-Chat-Funktionalität",
-                    "Optimierung von Datenbankabfragen zur Reduzierung der Ladezeit um 50%"
+                    "Entwicklung von Django-REST-APIs für SD-WAN- und IoT-Plattformen.",
+                    "Erstellung von ReactJS-Dashboards für Echtzeit-Analysen.",
+                    "Implementierung eines RASA-basierten KI-Chatbots (BotChatAI) mit NLP und Spacy.",
+                    "Automatisierung von Übersetzungsworkflows reduzierte den Aufwand um 30 %."
                 ],
                 "current": false
             },
             {
                 "id": 3,
-                "company": "Digital Agency",
-                "position": "Junior Entwickler",
-                "duration": "2019 - 2020",
-                "location": "New York, NY",
-                "description": "Entwicklung responsiver Websites und Webanwendungen für verschiedene Kunden.",
+                "company": "Amtex Systems",
+                "position": "Assoziierter Berater-Entwickler",
+                "duration": "2016 - 2018",
+                "location": "Chennai, Tamil Nadu",
+                "description": "Entwicklung von responsiven Websites und Webanwendungen für verschiedene Kunden.",
                 "achievements": [
-                    "Lieferung von über 15 Kundenprojekten pünktlich",
-                    "Verbesserung der Codequalität durch Peer-Reviews",
-                    "Erlernen moderner Entwicklungspraktiken"
+                    "Erstellung von Django-basierten CMS- und SaaS-Anwendungen.",
+                    "Design von Benutzerdatenmanagement- und Berichtsmodulen.",
+                    "Teilnahme am gesamten agilen Produktentwicklungszyklus."
                 ],
                 "current": false
             }
@@ -81,29 +88,9 @@
         "subtitle": "Technologien, mit denen ich arbeite",
         "list": [
             {
-                "name": "React",
-                "level": 95,
-                "category": "Frontend"
-            },
-            {
-                "name": "JavaScript/TypeScript",
-                "level": 90,
-                "category": "Sprachen"
-            },
-            {
-                "name": "Node.js",
-                "level": 85,
-                "category": "Backend"
-            },
-            {
                 "name": "Python",
                 "level": 80,
                 "category": "Sprachen"
-            },
-            {
-                "name": "CSS/SASS",
-                "level": 88,
-                "category": "Frontend"
             },
             {
                 "name": "MongoDB",
@@ -121,14 +108,39 @@
                 "category": "DevOps"
             },
             {
+                "name": "K8s",
+                "level": 85,
+                "category": "DevOps"
+            },
+            {
                 "name": "AWS",
                 "level": 75,
                 "category": "Cloud"
             },
             {
+                "name": "ANSIBLE",
+                "level": 80,
+                "category": "DevOps"
+            },
+            {
                 "name": "Git",
                 "level": 92,
-                "category": "Werkzeuge"
+                "category": "Tools"
+            },
+            {
+                "name": "React",
+                "level": 95,
+                "category": "Frontend"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "Sprachen"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "Frontend"
             }
         ]
     },
@@ -139,39 +151,38 @@
         "list": [
             {
                 "id": 1,
-                "institution": "University of Technology",
-                "degree": "Master in Informatik",
+                "institution": "SRM Valliammai Engineering College",
+                "degree": "Master of Computer Applications",
                 "field": "Software Engineering",
-                "duration": "2017 - 2019",
-                "location": "Boston, MA",
-                "gpa": "3.8/4.0",
+                "duration": "2014 - 2016",
+                "location": "Chennai, Tamil Nadu, Indien",
+                "gpa": "7.5 CGPA",
                 "achievements": [
-                    "Dean's List alle Semester",
-                    "Veröffentlichung einer Forschungsarbeit über verteilte Systeme",
-                    "Lehrassistent für den Kurs Datenstrukturen"
+                    "Gewinner des College-Hackathons 2016",
+                    "Gewinner des universitären Paper-Presentation-Wettbewerbs 2016"
                 ]
             },
             {
                 "id": 2,
-                "institution": "State University",
-                "degree": "Bachelor in Informatik",
+                "institution": "University of Madras",
+                "degree": "Bachelor of Computer Applications",
                 "field": "Informatik",
-                "duration": "2013 - 2017",
-                "location": "Los Angeles, CA",
-                "gpa": "3.6/4.0",
+                "duration": "2011 - 2014",
+                "location": "Chennai, Tamil Nadu, Indien",
+                "gpa": "71.6 %",
                 "achievements": [
-                    "Abschluss mit Auszeichnung",
-                    "Präsident des Informatik-Clubs",
-                    "Gewinner des Universitäts-Hackathons 2016"
+                    "Bester Student des Jahres 2013 & 2014",
+                    "Klassensprecher für 2011 & 2014",
+                    "Studentenvertreter für 2013 - 2014"
                 ]
             }
         ]
     },
     "footer": {
         "rights": "Alle Rechte vorbehalten",
-        "madeWith": "Gemacht mit",
+        "madeWith": "Erstellt mit",
         "by": "von"
     },
-    "loading": "Laden...",
+    "loading": "Wird geladen...",
     "error": "Fehler beim Laden der Profildaten. Bitte überprüfen Sie die Konsole."
 }

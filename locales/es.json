@@ -12,21 +12,21 @@
         "contactMe": "Contáctame"
     },
     "profile": {
-        "name": "John Doe",
-        "title": "Desarrollador Full Stack",
+        "name": "SURYAKUMAR K",
+        "title": "Líder Técnico",
         "photo": "/profile-photo.jpg",
-        "bio": "Ingeniero de software apasionado con más de 5 años de experiencia en la creación de aplicaciones web escalables. Especializado en React, Node.js y tecnologías en la nube. Me encanta convertir problemas complejos en soluciones elegantes.",
+        "bio": "Ingeniero apasionado de backend e IA con más de 9 años de experiencia en la construcción de sistemas inteligentes y escalables. Especializado en Python, infraestructura en la nube y MLOps. Me encanta convertir datos y modelos en soluciones listas para producción.",
         "contact": {
-            "email": "john.doe@example.com",
-            "phone": "+1 (555) 123-4567",
-            "location": "San Francisco, CA"
+            "email": "ksuryakumar@outlook.in",
+            "phone": "+91 94455 19873",
+            "location": "Chennai, Tamil Nadu"
         },
         "social": {
-            "linkedin": "https://linkedin.com/in/johndoe",
-            "github": "https://github.com/johndoe",
-            "twitter": "https://twitter.com/johndoe"
+            "linkedin": "https://www.linkedin.com/in/surya-kumar-k-45559343/",
+            "github": "https://github.com/suryakumar1024",
+            "twitter": "https://twitter.com/suryakumar1024"
         },
-        "resume": "/resume.pdf"
+        "resume": "/Suryakumar_K.pdf"
     },
     "experience": {
         "title": "Experiencia Laboral",
@@ -34,43 +34,50 @@
         "list": [
             {
                 "id": 1,
-                "company": "Tech Corp",
-                "position": "Desarrollador Full Stack Senior",
-                "duration": "2022 - Presente",
-                "location": "San Francisco, CA",
+                "company": "Aziro (anteriormente Msys Technologies)",
+                "position": "Líder Técnico",
+                "duration": "2020 - Presente",
+                "location": "Chennai, Tamil Nadu",
                 "description": "Liderando el desarrollo de arquitectura de microservicios, asesorando a desarrolladores junior e implementando pipelines de CI/CD.",
                 "achievements": [
-                    "Reducción del tiempo de despliegue en un 60% mediante automatización",
-                    "Lideré equipo de 5 desarrolladores en producto insignia",
-                    "Mejora del rendimiento de la aplicación en un 40%"
+                    "Desarrollo de herramientas de automatización para validación de certificados Kubernetes y controles de salud del sistema.",
+                    "Diseño de APIs REST e interfaces CLI para módulos de Cisco DNA Center.",
+                    "Gestión de CI/CD con Jenkins, Docker y Ansible.",
+                    "Integración de flujos de trabajo de datos AI/ML, mejorando el rendimiento en un 20%.",
+                    "Liderazgo de un equipo de 5 desarrolladores en el producto insignia.",
+                    "Contribución a las bibliotecas de código abierto Seagate CORTX (ConfStore, KvStore, MessageBus).",
+                    "Implementación de entornos K8s y automatización de despliegues.",
+                    "Liderazgo en la adopción de TDD, mejorando la cobertura de pruebas y la fiabilidad.",
+                    "Colaboración en mejoras de arquitectura de almacenamiento distribuido."
                 ],
                 "current": true
             },
             {
                 "id": 2,
-                "company": "StartupXYZ",
+                "company": "Contus support Interactive",
                 "position": "Desarrollador Full Stack",
-                "duration": "2020 - 2022",
-                "location": "Remoto",
-                "description": "Construcción y mantenimiento de aplicaciones web para clientes usando React y Node.js.",
+                "duration": "2018 - 2020",
+                "location": "Chennai, Tamil Nadu",
+                "description": "Construcción y mantenimiento de aplicaciones web orientadas al cliente utilizando React y Node.js.",
                 "achievements": [
-                    "Desarrollé 3 características principales que aumentaron el compromiso del usuario en un 25%",
-                    "Implementación de funcionalidad de chat en tiempo real",
-                    "Optimización de consultas a la base de datos reduciendo el tiempo de carga en un 50%"
+                    "Desarrollo de APIs REST en Django para plataformas SD-WAN e IoT.",
+                    "Construcción de dashboards en ReactJS para analíticas en tiempo real.",
+                    "Implementación de chatbot de IA basado en RASA (BotChatAI) con NLP y Spacy.",
+                    "Automatización de flujos de trabajo de traducción que redujo el esfuerzo en un 30%."
                 ],
                 "current": false
             },
             {
                 "id": 3,
-                "company": "Agencia Digital",
-                "position": "Desarrollador Junior",
-                "duration": "2019 - 2020",
-                "location": "Nueva York, NY",
-                "description": "Desarrollé sitios web responsivos y aplicaciones web para varios clientes.",
+                "company": "Amtex Systems",
+                "position": "Desarrollador Consultor Asociado",
+                "duration": "2016 - 2018",
+                "location": "Chennai, Tamil Nadu",
+                "description": "Desarrollo de sitios web responsivos y aplicaciones web para diversos clientes.",
                 "achievements": [
-                    "Entregué más de 15 proyectos de clientes a tiempo",
-                    "Mejora de la calidad del código a través de revisiones por pares",
-                    "Aprendí prácticas modernas de desarrollo"
+                    "Construcción de aplicaciones SaaS y CMS basados en Django.",
+                    "Diseño de módulos de gestión de datos de usuario y reportes.",
+                    "Participación en el ciclo de vida completo de desarrollo ágil de productos end-to-end."
                 ],
                 "current": false
             }
@@ -80,6 +87,46 @@
         "title": "Habilidades y Experiencia",
         "subtitle": "Tecnologías con las que trabajo",
         "list": [
+            {
+                "name": "Python",
+                "level": 80,
+                "category": "Lenguajes"
+            },
+            {
+                "name": "MongoDB",
+                "level": 82,
+                "category": "Base de datos"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 85,
+                "category": "Base de datos"
+            },
+            {
+                "name": "Docker",
+                "level": 78,
+                "category": "DevOps"
+            },
+            {
+                "name": "K8s",
+                "level": 85,
+                "category": "DevOps"
+            },
+            {
+                "name": "AWS",
+                "level": 75,
+                "category": "Nube"
+            },
+            {
+                "name": "ANSIBLE",
+                "level": 80,
+                "category": "DevOps"
+            },
+            {
+                "name": "Git",
+                "level": 92,
+                "category": "Herramientas"
+            },
             {
                 "name": "React",
                 "level": 95,
@@ -91,78 +138,42 @@
                 "category": "Lenguajes"
             },
             {
-                "name": "Node.js",
-                "level": 85,
-                "category": "Backend"
-            },
-            {
-                "name": "Python",
-                "level": 80,
-                "category": "Lenguajes"
-            },
-            {
                 "name": "CSS/SASS",
                 "level": 88,
                 "category": "Frontend"
-            },
-            {
-                "name": "MongoDB",
-                "level": 82,
-                "category": "Base de Datos"
-            },
-            {
-                "name": "PostgreSQL",
-                "level": 85,
-                "category": "Base de Datos"
-            },
-            {
-                "name": "Docker",
-                "level": 78,
-                "category": "DevOps"
-            },
-            {
-                "name": "AWS",
-                "level": 75,
-                "category": "Nube"
-            },
-            {
-                "name": "Git",
-                "level": 92,
-                "category": "Herramientas"
             }
         ]
     },
     "education": {
         "title": "Educación",
         "subtitle": "Formación académica",
-        "gpaLabel": "Promedio",
+        "gpaLabel": "Promedio (GPA)",
         "list": [
             {
                 "id": 1,
-                "institution": "Universidad Tecnológica",
-                "degree": "Maestría en Ciencias de la Computación",
+                "institution": "SRM Valliammai Engineering College",
+                "degree": "Maestría en Aplicaciones Computacionales",
                 "field": "Ingeniería de Software",
-                "duration": "2017 - 2019",
-                "location": "Boston, MA",
-                "gpa": "3.8/4.0",
+                "duration": "2014 - 2016",
+                "location": "Chennai, Tamil Nadu, India",
+                "gpa": "7.5 CGPA",
                 "achievements": [
-                    "Lista del Decano todos los semestres",
-                    "Publicación de trabajo de investigación sobre sistemas distribuidos",
-                    "Asistente de enseñanza para curso de Estructuras de Datos"
+                    "Ganador del hackathon universitario 2016",
+                    "Ganador de la competencia universitaria de presentación de ponencias 2016"
                 ]
             },
             {
                 "id": 2,
-                "institution": "Universidad Estatal",
-                "degree": "Licenciatura en Ciencias de la Computación",
+                "institution": "University of Madras",
+                "degree": "Licenciatura en Aplicaciones Computacionales",
                 "field": "Ciencias de la Computación",
-                "duration": "2013 - 2017",
-                "location": "Los Ángeles, CA",
-                "gpa": "3.6/4.0",
+                "duration": "2011 - 2014",
+                "location": "Chennai, Tamil Nadu, India",
+                "gpa": "71.6 %",
                 "achievements": [
-                    "Graduado con Honores",
-                    "Presidente del Club de Ciencias de la Computación",
-                    "Ganador del hackathon universitario 2016"
+                    "Mejor Estudiante del Año 2013 y 2014",
+                    "Representante de Clase 2011 y 2014",
+                    "Representante Estudiantil 2013 - 2014"
                 ]
             }
         ]
@@ -173,5 +184,5 @@
         "by": "por"
     },
     "loading": "Cargando...",
-    "error": "Error al cargar los datos del perfil. Por favor, revisa la consola."
+    "error": "Error al cargar los datos del perfil. Por favor, consulte la consola."
 }

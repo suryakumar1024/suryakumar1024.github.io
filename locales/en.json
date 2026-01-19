@@ -12,21 +12,21 @@
         "contactMe": "Contact Me"
     },
     "profile": {
-        "name": "John Doe",
-        "title": "Full Stack Developer",
+        "name": "SURYAKUMAR K",
+        "title": "Technical Lead",
         "photo": "/profile-photo.jpg",
-        "bio": "Passionate software engineer with 5+ years of experience building scalable web applications. Specialized in React, Node.js, and cloud technologies. Love turning complex problems into elegant solutions.",
+        "bio": "Passionate backend and AI engineer with 9+ years of experience building scalable, intelligent systems. Specialized in Python, cloud infrastructure, and MLOps. Love turning data and models into production-ready solutions.",
         "contact": {
-            "email": "john.doe@example.com",
-            "phone": "+1 (555) 123-4567",
-            "location": "San Francisco, CA"
+            "email": "ksuryakumar@outlook.in",
+            "phone": "+91 94455 19873",
+            "location": "Chennai, Tamil Nadu"
         },
         "social": {
-            "linkedin": "https://linkedin.com/in/johndoe",
-            "github": "https://github.com/johndoe",
-            "twitter": "https://twitter.com/johndoe"
+            "linkedin": "https://www.linkedin.com/in/surya-kumar-k-45559343/",
+            "github": "https://github.com/suryakumar1024",
+            "twitter": "https://twitter.com/suryakumar1024"
         },
-        "resume": "/resume.pdf"
+        "resume": "/Suryakumar_K.pdf"
     },
     "experience": {
         "title": "Work Experience",
@@ -34,43 +34,50 @@
         "list": [
             {
                 "id": 1,
-                "company": "Tech Corp",
-                "position": "Senior Full Stack Developer",
-                "duration": "2022 - Present",
-                "location": "San Francisco, CA",
+                "company": "Aziro (formerly Msys Technologies)",
+                "position": "Technical Lead",
+                "duration": "2020 - Present",
+                "location": "Chennai, Tamil Nadu",
                 "description": "Leading development of microservices architecture, mentoring junior developers, and implementing CI/CD pipelines.",
                 "achievements": [
-                    "Reduced deployment time by 60% through automation",
+                    "Developed automation tools for Kubernetes cert validation and system health checks.",
+                    "Designed REST APIs and CLI interfaces for Cisco DNA Center modules.",
+                    "Managed CI/CD with Jenkins, Docker, and Ansible.",
+                    "Integrated AI/ML data workflows, improving performance by 20%.",
                     "Led team of 5 developers on flagship product",
-                    "Improved application performance by 40%"
+                    "Contributed to open-source Seagate CORTX libraries (ConfStore, KvStore, MessageBus).",
+                    "Implemented K8s environments and deployment automation.",
+                    "Led TDD adoption, improving test coverage and reliability.",
+                    "Collaborated on distributed storage architecture improvements."
                 ],
                 "current": true
             },
             {
                 "id": 2,
-                "company": "StartupXYZ",
+                "company": "Contus support Interactive",
                 "position": "Full Stack Developer",
-                "duration": "2020 - 2022",
-                "location": "Remote",
+                "duration": "2018 - 2020",
+                "location": "Chennai, Tamil Nadu",
                 "description": "Built and maintained customer-facing web applications using React and Node.js.",
                 "achievements": [
-                    "Developed 3 major features that increased user engagement by 25%",
-                    "Implemented real-time chat functionality",
-                    "Optimized database queries reducing load time by 50%"
+                    "Developed Django REST APIs for SD-WAN and IoT platforms.",
+                    "Built ReactJS dashboards for real-time analytics.",
+                    "Implemented RASA-based AI chatbot (BotChatAI) with NLP and Spacy.",
+                    "Automated translation workflows reduce effort by 30%"
                 ],
                 "current": false
             },
             {
                 "id": 3,
-                "company": "Digital Agency",
-                "position": "Junior Developer",
-                "duration": "2019 - 2020",
-                "location": "New York, NY",
+                "company": "Amtex Systems",
+                "position": "Associate Consultant Developer",
+                "duration": "2016 - 2018",
+                "location": "Chennai, Tamil Nadu",
                 "description": "Developed responsive websites and web applications for various clients.",
                 "achievements": [
-                    "Delivered 15+ client projects on time",
-                    "Improved code quality through peer reviews",
-                    "Learned modern development practices"
+                    "Built Django-based CMS and SaaS applications.",
+                    "Designed user data management and reporting modules.",
+                    "Participated in end-to-end agile product development lifecycle."
                 ],
                 "current": false
             }
@@ -81,29 +88,9 @@
         "subtitle": "Technologies I work with",
         "list": [
             {
-                "name": "React",
-                "level": 95,
-                "category": "Frontend"
-            },
-            {
-                "name": "JavaScript/TypeScript",
-                "level": 90,
-                "category": "Languages"
-            },
-            {
-                "name": "Node.js",
-                "level": 85,
-                "category": "Backend"
-            },
-            {
                 "name": "Python",
                 "level": 80,
                 "category": "Languages"
-            },
-            {
-                "name": "CSS/SASS",
-                "level": 88,
-                "category": "Frontend"
             },
             {
                 "name": "MongoDB",
@@ -121,14 +108,39 @@
                 "category": "DevOps"
             },
             {
+                "name": "K8s",
+                "level": 85,
+                "category": "DevOps"
+            },
+            {
                 "name": "AWS",
                 "level": 75,
                 "category": "Cloud"
             },
             {
+                "name": "ANSIBLE",
+                "level": 80,
+                "category": "DevOps"
+            },
+            {
                 "name": "Git",
                 "level": 92,
                 "category": "Tools"
+            },
+            {
+                "name": "React",
+                "level": 95,
+                "category": "Frontend"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": 90,
+                "category": "Languages"
+            },
+            {
+                "name": "CSS/SASS",
+                "level": 88,
+                "category": "Frontend"
             }
         ]
     },
@@ -139,30 +151,29 @@
         "list": [
             {
                 "id": 1,
-                "institution": "University of Technology",
-                "degree": "Master of Science in Computer Science",
+                "institution": "SRM Valliammai Engineering College",
+                "degree": "Master of Computer Applications",
                 "field": "Software Engineering",
-                "duration": "2017 - 2019",
-                "location": "Boston, MA",
-                "gpa": "3.8/4.0",
+                "duration": "2014 - 2016",
+                "location": "Chennai, Tamil Nadu, India",
+                "gpa": "7.5 CGPA",
                 "achievements": [
-                    "Dean's List all semesters",
-                    "Published research paper on distributed systems",
-                    "Teaching Assistant for Data Structures course"
+                    "Won College hackathon 2016",
+                    "Won university Paper Presentation competition 2016"
                 ]
             },
             {
                 "id": 2,
-                "institution": "State University",
-                "degree": "Bachelor of Science in Computer Science",
+                "institution": "University of Madras",
+                "degree": "Bachelor of Computer Applications",
                 "field": "Computer Science",
-                "duration": "2013 - 2017",
-                "location": "Los Angeles, CA",
-                "gpa": "3.6/4.0",
+                "duration": "2011 - 2014",
+                "location": "Chennai, Tamil Nadu, India",
+                "gpa": "71.6 %",
                 "achievements": [
-                    "Graduated with Honors",
-                    "President of Computer Science Club",
-                    "Won university hackathon 2016"
+                    "Best Student of the Year for 2013 & 2014",
+                    "Class Representative for 2011 & 2014",
+                    "Student Representative for 2013 - 2014"
                 ]
             }
         ]
