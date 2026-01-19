@@ -1,0 +1,38 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7F00FF"/>
+      <stop offset="100%" stop-color="#00C6FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Neural Connections -->
+  <path d="M60 80 C120 20, 180 40, 160 90"
+        stroke="url(#g1)" stroke-width="2" fill="none"/>
+  <path d="M80 160 C140 220, 200 160, 160 120"
+        stroke="url(#g1)" stroke-width="2" fill="none"/>
+
+  <!-- Nodes -->
+  <circle cx="60" cy="80" r="4" fill="#7F00FF"/>
+  <circle cx="160" cy="90" r="4" fill="#00C6FF"/>
+  <circle cx="80" cy="160" r="4" fill="#7F00FF"/>
+  <circle cx="160" cy="120" r="4" fill="#00C6FF"/>
+
+  <!-- Central S -->
+  <text x="120" y="145"
+        text-anchor="middle"
+        font-size="90"
+        font-weight="700"
+        fill="url(#g1)"
+        font-family="Inter, Arial, sans-serif">
+    S
+  </text>
+
+  <text x="120" y="215"
+        text-anchor="middle"
+        font-size="14"
+        letter-spacing="3"
+        fill="#666">
+    SURYAKUMAR
+  </text>
+</svg>
